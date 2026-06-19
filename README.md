@@ -9,7 +9,7 @@ Welcome to my repository! This project is dedicated to my daily Python learning 
 ## 🚀 Daily Progress Tracker
 
 * *Day 1:* Set up the environment, wrote my first program (practice.py) 🔴, and successfully pushed it to GitHub.
-* *Day 2:* Addition of two numbers (practice_01.py).
+* *Day 2:* Addition of two numbers (practice_01.py). added code for full name display
 
 ---
 
